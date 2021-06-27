@@ -1,5 +1,4 @@
 export enum RESPONSE_STATUS {
-    SUCCESS ="SUCCESS",
-    FAILED = "FAILED"
+  SUCCESS = "SUCCESS",
+  FAILED = "FAILED",
 }
-
