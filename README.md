@@ -1,7 +1,7 @@
 # Todo-api
 Sample NodeJs backend application
 
-## Instructions to run the application checkouting the source code
+## Instructions to run the application
 
 1. Checkout the source from `master branch`
 2. Run npm install
